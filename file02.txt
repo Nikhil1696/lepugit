@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 i am comming
 
 
@@ -6,4 +7,7 @@ i am comming
 
 
 
+=======
+what about you
+>>>>>>> test
 
